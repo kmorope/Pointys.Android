@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Pcercanoas"
+            android:icon="@drawable/map_marker_radius"
+            android:title="@string/strDra_PCerca" />
+        <item
+            android:id="@+id/nav_PAcumulados"
+            android:icon="@drawable/counter"
+            android:title="@string/strDra_PAcumu" />
+        <item
+            android:id="@+id/nav_Catalogo"
+            android:icon="@drawable/ic_catalogo"
+            android:title="@string/strDra_Catalo" />
+        <item
+            android:id="@+id/nav_MCuenta"
+            android:icon="@drawable/ic_account"
+            android:title="@string/strDra_Micuenta"/>
+    </group>
+    <group
+        android:id="@+id/grp2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Ajuste"
+            android:icon="@drawable/settings_box"
+            android:title="@string/strDra_Ajuste" />
+
+
+        <item
+            android:id="@+id/nav_ayuda"
+            android:icon="@drawable/ic_help_circle"
+            android:title="@string/strDra_Ayuda"/>
+        <item
+            android:id="@+id/nav_terminos"
+            android:icon="@drawable/ic_file_document"
+            android:title="@string/strDra_TerCond"/>
+
+    </group>
+</menu>

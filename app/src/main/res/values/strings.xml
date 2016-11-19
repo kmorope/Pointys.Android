@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pointys</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--drawer palabras-->
+    <string name="Puntos_cera">Settings</string>
+
+
+    <!--informacion usuario-->
+    <string name="nombreUsuario">Alvin Zuckerberg</string>
+    <string name="correoUsuario">AlvinZuckerberg@davivienda.com</string>
+
+    <!--AppBarLayout informacion-->
+    <string name="btn_lista">Lista</string>
+    <string name="btn_Mapa">Mapa</string>
+
+    <!--drawe informacion-->
+    <string name="strDra_PCerca">Puntos Cercanos</string>
+    <string name="strDra_PAcumu">Puntos Acumulados</string>
+    <string name="strDra_Catalo">Catalogos</string>
+    <string name="strDra_Micuenta">Mi cuenta</string>
+    <string name="strDra_Ajuste">Ajustes</string>
+    <string name="strDra_Ayuda">Ayuda</string>
+    <string name="strDra_TerCond">Terminos y Condiciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
